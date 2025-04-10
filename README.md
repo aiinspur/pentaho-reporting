@@ -4,17 +4,23 @@ Pentaho Reporting is Java class library for generating reports. It provides
 flexible reporting and printing functionality using data from multiple sources
 and supports output to display devices, printers, PDF, Excel, XHTML,
 PlainText, XML and CSV files.
+支持从多数据源灵活生成报表及打印功能，输出格式涵盖显示设备、打印机、PDF、Excel、XHTML、纯文本、XML及CSV文件。
 
 The Pentaho Report Designer provides a graphical editor for report definitions
 and can also be used as standalone desktop reporting tool.
+Pentaho报表设计器提供可视化报表定义编辑器，亦可作为独立桌面报表工具使用。
 
 The library is optimized for performance and a small memory footprint and
 can run completely in memory without generating temporary files or requiring
 extra compilation steps. Pentaho Reporting gives the user a great degree of
-flexibility while designing reports.
+flexibility while designing reports. 
+该库经性能优化且内存占用低，可完全在内存中运行，无需生成临时文件或额外编译步骤。用户在设计报表时享有高度灵活性。
 
 This software is free and opensource software available under the
 terms of the GNU Lesser General Public License (LGPL) Version 2.1.
+
+本软件遵循​​GNU宽松通用公共许可证（LGPL）2.1版​​，为免费开源软件。
+
 
 For an up to date list of changes in the releases of Pentaho Reporting,
 please visit the JIRA system at http://jira.pentaho.com/browse/PRD
